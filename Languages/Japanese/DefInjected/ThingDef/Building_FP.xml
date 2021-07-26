@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FPIndustrialBreaker.label>遮断器 (工業用)</FPIndustrialBreaker.label>
+  <FPIndustrialBreaker.description>電力ネットワーク内の放電を緩和するように設計された工業用のサーキットブレーカーです。最大3万Wdの放電を処理して、漏電を検知するとブレーカースイッチが跳ね返ります。</FPIndustrialBreaker.description>
+  <Blueprint_FPIndustrialBreaker.label>遮断器(工業用)(設計)</Blueprint_FPIndustrialBreaker.label>
+  <Blueprint_Install_FPIndustrialBreaker.label>遮断器(工業用)(移動先)</Blueprint_Install_FPIndustrialBreaker.label>
+  <Frame_FPIndustrialBreaker.label>遮断器(工業用)(施行)</Frame_FPIndustrialBreaker.label>
+  <Frame_FPIndustrialBreaker.description>電力ネットワーク内の放電を緩和するように設計された工業用のサーキットブレーカーです。最大3万Wdの放電を処理して、漏電を検知するとブレーカースイッチが跳ね返ります。</Frame_FPIndustrialBreaker.description>
+
+  <FPGWBreaker.label>都市用遮断器 (最先端)</FPGWBreaker.label>
+  <FPGWBreaker.description>特殊な方法で埋め込まれたAI人格コアを利用して、電力ネットワーク内の放電を軽減するように設計された、グリッターワールドの都市用サーキットブレーカーです。最大20万Wdの放電を処理して、漏電を検知するとブレーカースイッチが跳ね返ります。</FPGWBreaker.description>
+  <Blueprint_FPGWBreaker.label>都市用遮断器(最先端)(設計)</Blueprint_FPGWBreaker.label>
+  <Blueprint_Install_FPGWBreaker.label>都市用遮断器(最先端)(移動先)</Blueprint_Install_FPGWBreaker.label>
+  <Frame_FPGWBreaker.label>都市用遮断器(最先端)(施行)</Frame_FPGWBreaker.label>
+  <Frame_FPGWBreaker.description>特殊な方法で埋め込まれたAI人格コアを利用して、電力ネットワーク内の放電を軽減するように設計された、グリッターワールドの都市用サーキットブレーカーです。最大20万Wdの放電を処理して、漏電を検知するとブレーカースイッチが跳ね返ります。</Frame_FPGWBreaker.description>
+
+</LanguageData>

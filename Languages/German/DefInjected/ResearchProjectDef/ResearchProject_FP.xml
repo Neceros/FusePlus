@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchFPIndustrialBreaker.label>Industrieller Leistungsschutzschalter</ResearchFPIndustrialBreaker.label>
+  <ResearchFPIndustrialBreaker.description>Ermöglicht den Bau von Leistungsschutzschaltern in Industrieller Größe, die Sie vor starken elektrischen Entladungen schützen.</ResearchFPIndustrialBreaker.description>
+
+  <ResearchFPGWBreaker.label>Glitzerwelt Leistungsschutzschalter</ResearchFPGWBreaker.label>
+  <ResearchFPGWBreaker.description>Ermöglicht den Bau von Leistungsschaltern aus der Glitzerwelt, die Sie dank eines eingebauten KI-Systems vor extremen elektrischen Entladungen schützen kann. Erfordert einen KI-Kern.</ResearchFPGWBreaker.description>
+
+
+</LanguageData>

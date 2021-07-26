@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>ResearchFPIndustrialBreaker</defName>
+		<label>industrial circuit breaker</label>
+		<description>Allows building industrial-sized circuit breakers capable of protecting you from a powerful electric discharge.</description>
+		<baseCost>2500</baseCost>
+    <techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>ResearchProject_RTCircuitBreakers</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<tab>RTMods</tab>
+		<researchViewX>2</researchViewX>
+		<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+
+
+	<ResearchProjectDef>
+		<defName>ResearchFPGWBreaker</defName>
+		<label>glitterworld city circuit breaker</label>
+		<description>Allows building glitterworld city circuit breakers capable of protecting you from an insane electric discharge, thanks to a built in AI system. Requires an AI Core to be constructed.</description>
+		<baseCost>8000</baseCost>
+    <techLevel>Ultra</techLevel>
+		<prerequisites>
+			<li>ResearchFPIndustrialBreaker</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<tab>RTMods</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>

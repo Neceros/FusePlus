@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchFPIndustrialBreaker.label>工業用遮断器</ResearchFPIndustrialBreaker.label>
+  <ResearchFPIndustrialBreaker.description>最大3万Wdの大規模な放電から電力網を保護できる工業用のサーキットブレーカーを建築できます。</ResearchFPIndustrialBreaker.description>
+
+  <ResearchFPGWBreaker.label>最先端都市用遮断器</ResearchFPGWBreaker.label>
+  <ResearchFPGWBreaker.description>内蔵されたAI人格コアによって、最大20万Wdの異常な放電からあなたのコロニーを保護することができるグリッターワールドの都市用サーキットブレーカーを建築できます。建築にはAI人格コアが必要です。</ResearchFPGWBreaker.description>
+
+</LanguageData>
