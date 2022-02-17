@@ -9,11 +9,11 @@
   <FPIndustrialBreaker_Frame.description>Ein Leistungsschalter in industrieller Größe zur Minderung der elektrischen Entladung in einem Stromnetz. Hält bis zu 30.000 Wd-Entladung aus und löst bei Auslösung aus.</FPIndustrialBreaker_Frame.description>
 
   <FPGWBreaker.label>Leistungsschutzschalter</FPGWBreaker.label>
-  <FPGWBreaker.description>Ein Leistungsschutzschalter aus der Glitzerwelt, der mithilfe eines speziell eingebetteten AI-Kerns die elektrische Entladung in einem Stromnetz mindert. Hält bis zu 200.000 Wd-Entladung aus und schaltet sich bei Auslösung aus.</FPGWBreaker.description>
+  <FPGWBreaker.description>Ein Leistungsschutzschalter aus der Glitzerwelt, der mithilfe eines speziell eingebetteten AI-Kerns die elektrische Entladung in einem Stromnetz mindert. Hält bis zu 1.000.000 Wd-Entladung aus und schaltet sich bei Auslösung aus.</FPGWBreaker.description>
   <FPGWBreaker_Blueprint.label>Glitzerwelt Leistungsschutzschalter (Entwurf)</FPGWBreaker_Blueprint.label>
   <FPGWBreaker_Blueprint_Install.label>Glitzerwelt Leistungsschutzschalter (Entwurf)</FPGWBreaker_Blueprint_Install.label>
   <FPGWBreaker_Frame.label>Glitzerwelt Leistungsschutzschalter (im Bau)</FPGWBreaker_Frame.label>
-  <FPGWBreaker_Frame.description>Ein Leistungsschutzschalter aus der Glitzerwelt, der mithilfe eines speziell eingebetteten AI-Kerns die elektrische Entladung in einem Stromnetz mindert. Hält bis zu 200.000 Wd-Entladung aus und schaltet sich bei Auslösung aus.</FPGWBreaker_Frame.description>
+  <FPGWBreaker_Frame.description>Ein Leistungsschutzschalter aus der Glitzerwelt, der mithilfe eines speziell eingebetteten AI-Kerns die elektrische Entladung in einem Stromnetz mindert. Hält bis zu 1.000.000 Wd-Entladung aus und schaltet sich bei Auslösung aus.</FPGWBreaker_Frame.description>
 
 
 </LanguageData>
